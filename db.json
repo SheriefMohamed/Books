@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "title": "Class A",
+      "id": 1
+    },
+    {
+      "title": "Class B",
+      "id": 2
+    },
+    {
+      "title": "Multi classes",
+      "id": 3
+    },
+    {
+      "title": "new class",
+      "id": 4
+    },
+    {
+      "title": "new ",
+      "id": 5
+    }
+  ]
+}
